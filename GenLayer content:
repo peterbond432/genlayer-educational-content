@@ -1,0 +1,10 @@
+genlayer-educational-content/
+├─ README.md
+├─ tutorials/
+│  └─ intro-to-genlayer.md
+├─ code-examples/
+│  └─ hello_world_validator.py
+├─ diagrams/
+│  └─ genlayer_architecture.png
+├─ livestreams/
+│  └─ session-01.md
